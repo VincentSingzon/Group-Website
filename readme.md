@@ -25,7 +25,7 @@
 
 <hr>
 
-<a href="https://github.com/WillDaWise/Assignment1/wiki">Link to Will Profile</a>
+<a href="https://github.com/WillDaWise/Assignment1/wiki">Link to Will Grime Profile</a>
 
 <br>
 
