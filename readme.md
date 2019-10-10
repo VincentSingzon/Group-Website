@@ -34,7 +34,7 @@
 <img src = "KeetanImages/Big5.png" alt="hi"/>
 <img src = "KeetanImages/LearningStyle.png" alt="hi"/>
 <br>
-<h3> Will Grime </h3>
+<h3> Will Grime </h3><img src = "WillImages/Sc
 <br>
 <h3>Vincent Singzon</h3>
 <img src = "images/myers.PNG" alt="hi"/>
