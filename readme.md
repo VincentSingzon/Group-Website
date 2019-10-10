@@ -37,6 +37,9 @@
 <h3> Will Grime </h3>
 <br>
 <h3>Vincent Singzon</h3>
+<img src = "images/myers.png" alt="hi"/>
+<img src = "images/learner.png" alt="hi"/>
+<img src = "images/onlinetest.png" alt="hi"/>
 <br>
 <h3>Kyle Molloy</h3>
 <br>
