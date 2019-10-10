@@ -43,6 +43,11 @@
 <h3>Aaron Wilkinson </h3>
 
 <h2> Ideal Jobs </h2>
+<h3> Vincent Singzon </h3>
+<span> My Ideal job was Cyber Security Engineer The common element I found in this was the relations to IT field. The thing which differentiates my position from others is protecting damage to hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.  My career plan is similar to others in how we apply things from IT to our work
+</span>
+<h3> Keetan Southwell </h3>
+<span >My ideal job was as a civil engineering project manager. The common elements I found in this job are the impacts that IT has on it, in that the job is drastically assisted by IT. It is different in the sense that it is not specifically in the IT field of work. My career plan is very different to others in the group. </span>
 <h2> Tools </h2>
 <h2> Industry Data </h2>
 <h2> IT Tecnologies </h2>
