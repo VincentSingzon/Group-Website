@@ -45,9 +45,7 @@
 <img src = "images/onlinetest.PNG" alt="hi"/>
 <br>
 <h3>Kyle Molloy</h3>
-<img src = ![65826802-62c92300-e2ce-11e9-8a76-9eb3332ed4a0](https://user-images.githubusercontent.com/54801204/66616492-5751f200-ec14-11e9-85e9-1ee5b169903d.png)"
-
-<img src = ![65826859-13372700-e2cf-11e9-9dce-22594a198894](https://user-images.githubusercontent.com/54801204/66616523-73559380-ec14-11e9-9f33-54b81f323d63.png)"
+ ![65826802-62c92300-e2ce-11e9-8a76-9eb3332ed4a0](https://user-images.githubusercontent.com/54801204/66616492-5751f200-ec14-11e9-85e9-1ee5b169903d.png)"
 <br>
 <h3>Aaron Wilkinson </h3>
 
