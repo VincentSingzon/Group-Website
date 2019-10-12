@@ -63,7 +63,11 @@
 <p> Link to GitHub website: </p>
 <p> The GitHub trail doesn't entirely reflect the work and planning that has gone in to this assignment. Our group used other tools such as the discussion forums via Canvas, a shared google doc and discord to communicate our ideas for this project. GitHub was worked on last out of most of these tools, with planning being done though other means. Thus, GitHub doesn't accuratley reflect our group's work patterns.</p>
 <h2> Industry Data </h2>
+
 <h3> Demand Ranking </h3>
+
+<h3>Required Skillset</h3>
+<p>Because our ideal jobs for our group were so varied, some being in the IT field, others not and some being in between these two, we were unable to come up with one set of ideal skills required for our group. This does, however, add more diversity to the group and makes our team stronger, since we all have different skills.</p>
 
 <h3> Vincent Singzon </h3>
 <span>My ideal Job cyber security anaylst is in large demand as their is currently a shortage of skills related to cybersecurity that cost Australia $400 million in lost revenue the skills required for the role would be IT skills like programming, networking communication and presentation skills, problem solving. The three highest ranked IT specific skills that are not required skillset are 
