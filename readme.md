@@ -58,6 +58,14 @@
 <span >My ideal job was as a civil engineering project manager. The common elements I found in this job are the impacts that IT has on it, in that the job is drastically assisted by IT. It is different in the sense that it is not specifically in the IT field of work. My career plan is very different to others in the group. </span>
 <h2> Tools </h2>
 <h2> Industry Data </h2>
+<h3> Demand Ranking </h3>
+
+<h3> Vincent Singzon </h3>
+<h3> Will Grime </h3>
+<h3> Keetan Southwell</h3>
+<span> The skill of project management in my ideal job ranks fifth in the list of desired skill by employers. The general skills that are required in my ideal field rank among the top, with comunication, problem solving and organisation being the top three skill respectively and teamwork and planning also being ranked highly on the list.</span>
+<h3> Kyle Molloy </h3>
+<h3> Aaron Wilkinson </h3>
 <h2> IT Work </h2>
 <h3> Professional Interview </h3>
 <br>
