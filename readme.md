@@ -36,8 +36,9 @@
 <br>
 <h3> Will Grime </h3>
 <img src = "WillPhotos/Screenshot (18).png" alt = "hi"/>
-<img src = "WillPhotos/Screenshot (39).png" alt = "hi"/>
 <img src = "WillPhotos/Screenshot (40).png" alt = "hi"/>
+<img src = "WillPhotos/Screenshot (39).png" alt = "hi"/>
+
 <br>
 <h3>Vincent Singzon</h3>
 <img src = "images/myers.PNG" alt="hi"/>
@@ -58,19 +59,11 @@
 <span >My ideal job was as a civil engineering project manager. The common elements I found in this job are the impacts that IT has on it, in that the job is drastically assisted by IT. It is different in the sense that it is not specifically in the IT field of work. My career plan is very different to others in the group. </span>
 <h2> Tools </h2>
 <h2> Industry Data </h2>
-<h3> Demand Ranking </h3>
-
-<h3> Vincent Singzon </h3>
-<h3> Will Grime </h3>
-<h3> Keetan Southwell</h3>
-<span> The skill of project management in my ideal job ranks fifth in the list of desired skill by employers. The general skills that are required in my ideal field rank among the top, with communication, problem solving and organisation being the top three skill respectively and teamwork and planning also being ranked highly on the list.</span>
-<h3> Kyle Molloy </h3>
-<h3> Aaron Wilkinson </h3>
 <h2> IT Work </h2>
 <h3> Professional Interview </h3>
 <br>
-<span> The IT professional we interviewed is in the business of telecommunications. He does software, firmware and hardware testing, as well as project management in the telecommunications field. He interacts daily with the company management, software and hardware engineers, software testers, documentation workers and customer tech support. He mainly spent his time at work at a desk or in testing labs in an office building. The hardest part of his job was said to be the making judgement calls on whether or not to ship a certain project and making decisions about the readiness of certain projects for customer consumption. He said this was the ardest part because if he made the wrong decision, it could come back on him from his supervisors in either case, where a product was shipped too early or too late.</span>
-<h2> IT Technologies </h2>
+<span> The IT professional we interviewd is in the business of telecommunications. He does software, firmware and hardware testing, as well as project management in the telecommunications field. He interacts daily with the company management, software and hardware engineers, software testers, documentation workers and customer tech support. He mainly spent his time at work at a desk or in testing labs in an office building. The hardest part of his job was said to be the making judgement calls on whether or not to ship a certain project and making decisions about the readiness of certain projects for customer consumption. He said this was the ardest part because if he made the wrong decision, it could come back on him from his supervisors in either case, where a product was shipped too early or too late.</span>
+<h2> IT Tecnologies </h2>
 <h3> Autonomous Cars </h3>
 <br>
 <h3> What Does it Do? </h3>
