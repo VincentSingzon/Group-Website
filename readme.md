@@ -103,7 +103,9 @@ Vendors in cybersecurity would use endpoint, network and advanced threat protect
 <p> Zoox. 2019. Zoox. [ONLINE] Available at: <a href ="https://zoox.com/"> https://zoox.com</a>. [Accessed 12 October 2019].</p>
 <p> YouTube. 2019. What are Geofences? - All about Geofencing in 5 min - YouTube. [ONLINE] Available at: https://www.youtube.com/watch?v=oklOTx_jnbA. [Accessed 12 October 2019]</p>
   <p>Kathleen Walch. 2019. The Future With Level 5 Autonomous Cars. [ONLINE] Available at: https://www.forbes.com/sites/cognitiveworld/2019/06/20/the-future-with-level-5-autonomous-cars/#2419fa3e4382. [Accessed 12 October 2019]</p>
-  <p></p>
+  <p>CarsGuide. 2019. Adaptive cruise control explained | CarsGuide. [ONLINE] Available at: https://www.carsguide.com.au/car-advice/adaptive-cruise-control-explained-45905. [Accessed 12 October 2019]</p>
+  <p>Driverless cars The benefits and what it means for the future of mobility | The NRMA. 2019. Driverless cars The benefits and what it means for the future of mobility | The NRMA. [ONLINE] Available at: https://www.mynrma.com.au/cars-and-driving/driver-training-and-licences/resources/driverless-cars-the-benefits-and-what-it-means-for-the-future-of-mobility. [Accessed 12 October 2019]</p>
+  <p>Alphr. 2019. Driverless cars of the future: How far away are we from autonomous cars? | Alphr. [ONLINE] Available at: https://www.alphr.com/cars/1001329/driverless-cars-of-the-future-how-far-away-are-we-from-autonomous-cars. [Accessed 12 October 2019]</p>
 <p> Machine Learning: What it is and why it matters | SAS. 2019. Machine Learning: What it is and why it matters | SAS. [ONLINE] Available at: https://www.sas.com/en_au/insights/analytics/machine-learning.html. [Accessed 12 October 2019].</p>
 <p>History of Machine Learning. 2019. History of Machine Learning. [ONLINE] Available at: https://www.doc.ic.ac.uk/~jce317/history-machine-learning.html#top. [Accessed 12 October 2019].
 </p>
