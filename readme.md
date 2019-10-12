@@ -100,8 +100,10 @@ Vendors in cybersecurity would use endpoint, network and advanced threat protect
 <h1> Project Ideas </h1>
 <h1> Feedback </h1>
 <h1> Bibliography </h1>
-<span> Zoox. 2019. Zoox. [ONLINE] Available at: <a href ="https://zoox.com/"> https://zoox.com</a>. [Accessed 12 October 2019].</span>
+<p> Zoox. 2019. Zoox. [ONLINE] Available at: <a href ="https://zoox.com/"> https://zoox.com</a>. [Accessed 12 October 2019].</p>
 <p> YouTube. 2019. What are Geofences? - All about Geofencing in 5 min - YouTube. [ONLINE] Available at: https://www.youtube.com/watch?v=oklOTx_jnbA. [Accessed 12 October 2019]</p>
+  <p>Kathleen Walch. 2019. The Future With Level 5 Autonomous Cars. [ONLINE] Available at: https://www.forbes.com/sites/cognitiveworld/2019/06/20/the-future-with-level-5-autonomous-cars/#2419fa3e4382. [Accessed 12 October 2019]</p>
+  <p></p>
 <p> Machine Learning: What it is and why it matters | SAS. 2019. Machine Learning: What it is and why it matters | SAS. [ONLINE] Available at: https://www.sas.com/en_au/insights/analytics/machine-learning.html. [Accessed 12 October 2019].</p>
 <p>History of Machine Learning. 2019. History of Machine Learning. [ONLINE] Available at: https://www.doc.ic.ac.uk/~jce317/history-machine-learning.html#top. [Accessed 12 October 2019].
 </p>
