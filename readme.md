@@ -56,6 +56,8 @@
 </span>
 <h3> Keetan Southwell </h3>
 <span >My ideal job was as a civil engineering project manager. The common elements I found in this job are the impacts that IT has on it, in that the job is drastically assisted by IT. It is different in the sense that it is not specifically in the IT field of work. My career plan is very different to others in the group. </span>
+<h3> Will Grime </h3>
+<span> My ideal job was to be a junior data scientist. The common elements I found in the jobe was the use of IT to complete the job, as in the use of coding languages such as R and Python. The difference of this job was that it was largely about the use of data and maths to help businesses in real time. My career plan is similar to others in that I want to complete University, and then get different jobs to obtain the skillset I would need.</span>
 <h2> Tools </h2>
 <h2> Industry Data </h2>
 <h3> Demand Ranking </h3>
