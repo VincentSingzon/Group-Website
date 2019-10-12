@@ -63,7 +63,8 @@
 <h3> Demand Ranking </h3>
 
 <h3> Vincent Singzon </h3>
-<span>My ideal Job cyber security anaylst is in large demand as their is currently a shortage of skills related to cybersecurity that cost Australia $400 million in lost revenue the skills required for the role would be IT skills like programming, networking communication and presentation skills, problem solving
+<span>My ideal Job cyber security anaylst is in large demand as their is currently a shortage of skills related to cybersecurity that cost Australia $400 million in lost revenue the skills required for the role would be IT skills like programming, networking communication and presentation skills, problem solving. The three highest ranked IT specific skills that are not required skillset are 
+Business Management, Business process and Building relationships. The three skills not in my skillset are Python, Graphic design and Javascript.<span>
 <h3> Will Grime </h3>
 <span>My job of juniour data scientist, which probably has a moderate to large demand from employers. The technical skill that is needed, Python, is not in great demand from employers. However, communication and presentation skills along with problem solving skills are the top two non specific skills in terms of demand. The three highest ranked IT skills that aren't required for my job are SQL, Javascript and Java. The three highest ranked non IT skills that aren't required for my job are organisational skills, writing, and teamwork/collaboration. After looking at the burning glass data, my opinion of my ideal job hasn't changed much. It has changed to also include skills that are in great demand. This is because I want a job where the skills can be helpful to get more jobs and can be applied in other areas.</span>
 <h3> Keetan Southwell</h3>
