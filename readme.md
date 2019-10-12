@@ -98,7 +98,7 @@ Vendors in cybersecurity would use endpoint, network and advanced threat protect
 <h1> Feedback </h1>
 <h1> Bibliography </h1>
 <span> Zoox. 2019. Zoox. [ONLINE] Available at: <a href ="https://zoox.com/"> https://zoox.com</a>. [Accessed 12 October 2019].</span>
-<span> Machine Learning: What it is and why it matters | SAS. 2019. Machine Learning: What it is and why it matters | SAS. [ONLINE] Available at: https://www.sas.com/en_au/insights/analytics/machine-learning.html. [Accessed 12 October 2019].</span>
+<p> Machine Learning: What it is and why it matters | SAS. 2019. Machine Learning: What it is and why it matters | SAS. [ONLINE] Available at: https://www.sas.com/en_au/insights/analytics/machine-learning.html. [Accessed 12 October 2019].</p>
   </body>
 
 
