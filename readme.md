@@ -59,6 +59,9 @@
 <h3> Will Grime </h3>
 <span> My ideal job was to be a junior data scientist. The common elements I found in the jobe was the use of IT to complete the job, as in the use of coding languages such as R and Python. The difference of this job was that it was largely about the use of data and maths to help businesses in real time. My career plan is similar to others in that I want to complete University, and then get different jobs to obtain the skillset I would need.</span>
 <h2> Tools </h2>
+<p> Link to repository: </p>
+<p> Link to GitHub website: </p>
+<p> The GitHub trail doesn't entirely reflect the work and planning that has gone in to this assignment. Our group used other tools such as the discussion forums via Canvas, a shared google doc and discord to communicate our ideas for this project. GitHub was worked on last out of most of these tools, with planning being done though other means. Thus, GitHub doesn't accuratley reflect our group's work patterns.</p>
 <h2> Industry Data </h2>
 <h3> Demand Ranking </h3>
 
@@ -98,7 +101,7 @@ Vendors in cybersecurity would use endpoint, network and advanced threat protect
 <h3>what does it do</h3>
 <span>This will affect me as a lot of my life revolves around technology, it will affect everyone as well as we rely on technology in our daily lives. What will be different is that cyber criminals are able to target things such as medical technologies like pacemakers, hack into military installations stealing sensitive data and have terrorists disrupt power grids or phone lines and as the world becomes more digital we need people who are able to protect consumers and business from cyber threats. </span>
 <h1> Project Ideas </h1>
-<h1> Feedback </h1>
+<h1> Group Reflection </h1>
 <h1> Bibliography </h1>
 <p> Zoox. 2019. Zoox. [ONLINE] Available at: <a href ="https://zoox.com/"> https://zoox.com</a>. [Accessed 12 October 2019].</p>
 <p> YouTube. 2019. What are Geofences? - All about Geofencing in 5 min - YouTube. [ONLINE] Available at: https://www.youtube.com/watch?v=oklOTx_jnbA. [Accessed 12 October 2019]</p>
