@@ -96,6 +96,8 @@ Vendors in cybersecurity would use endpoint, network and advanced threat protect
 
 <h1> Project Ideas </h1>
 <h1> Feedback </h1>
+<h1> Bibliography </h1>
+<span> Zoox. 2019. Zoox. [ONLINE] Available at: <a href ="https://zoox.com/"> https://zoox.com</a>. [Accessed 12 October 2019].</span>
 
   </body>
 
