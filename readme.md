@@ -57,7 +57,7 @@
 <span> My ideal job was to be a junior data scientist. The common elements I found in the jobe was the use of IT to complete the job, as in the use of coding languages such as R and Python. The difference of this job was that it was largely about the use of data and maths to help businesses in real time. My career plan is similar to others in that I want to complete University, and then get different jobs to obtain the skillset I would need.</span>
 <h2> Tools </h2>
 <p> Link to repository: <a href = "https://github.com/VincentSingzon/Group-Website" >https://github.com/VincentSingzon/Group-Website</a></p>
-<p> Link to GitHub website: < href = "https://vincentsingzon.github.io/Group-Website/" >https://vincentsingzon.github.io/Group-Website/</a></p>
+<p> Link to GitHub website: <a href = "https://vincentsingzon.github.io/Group-Website/" >https://vincentsingzon.github.io/Group-Website/</a></p>
 <p> The GitHub trail doesn't entirely reflect the work and planning that has gone in to this assignment. Our group used other tools such as the discussion forums via Canvas, a shared google doc and discord to communicate our ideas for this project. GitHub was worked on last out of most of these tools, with planning being done though other means. Thus, GitHub doesn't accuratley reflect our group's work patterns.</p>
 <h2> Industry Data </h2>
 
