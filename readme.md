@@ -117,6 +117,8 @@ Vendors in cybersecurity would use endpoint, network and advanced threat protect
 </p>
 <p>What Are Cyber Threats: How They Affect You and What to Do About Them https://preyproject.com/blog/en/what-are-cyber-threats-how-they-affect-you-what-to-do-about-them/ [Accessed 12 October 2019].
 </p>
+<p>EliteDataScience. 2019. 15 Ways Machine Learning Will Impact Your Everyday Life. [ONLINE] Available at: https://elitedatascience.com/machine-learning-impact. [Accessed 13 October 2019].
+</p>
 
   </body>
 
