@@ -51,6 +51,7 @@
 <img src = "images/myers.PNG" alt="hi"/>
 <img src = "images/learner.PNG" alt="hi"/>
 <img src = "images/onlinetest.PNG" alt="hi"/>
+<p>The results show i'm a tactile learner, that i learn things better through hands on approach, how i tend to take frequent breaks having difficulty sitting still these results could be helpful to the group as i like to do hands on things such as designing a website, using computers as they reinforce a sense of touch and that i learn best by doing the task not just reading, seeing or hearing.
 <br>
 <h3>Kyle Molloy</h3>
 [url=https://ibb.co/FVNy5DW][img]https://i.ibb.co/FVNy5DW/index.png[/img][/url]
