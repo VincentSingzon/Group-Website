@@ -8,7 +8,7 @@
 <a href="#team">Team Profile</a>
 <a href="#ideal">Ideal Jobs</a>
 <a href="#industry">Industry Data</a>
-<a href="#Professional">Professional Interview</a>
+<a href="#it">IT Work</a>
 <a href="#IT">IT Technologies</a>
 <a href="#Project">Project Ideas</a>
 <a href="#reflection">Group Reflection</a>
@@ -85,7 +85,7 @@ Business Management, Business process and Building relationships. The three skil
 <span> The skill of project management in my ideal job ranks fifth in the list of desired skill by employers. The general skills that are required in my ideal field rank among the top, with communication, problem solving and organisation being the top three skill respectively and teamwork and planning also being ranked highly on the list. The three highest ranked IT specific skill that are not in my required skillset are SQL, JavaScript and JAVA, which are the three highest ranking skills. All of the generic skills need to be had in any job to make a person successful, however the least useful ones in my required skillset for a project management job would be creativity, presentation skills and self-starter. Having looked at the burning glass data has not changed my ideal job, since it is not in the IT field to begin with and the burning glass data is geared specifically towards IT careers.</span>
 <h3> Kyle Molloy </h3>
 <h3> Aaron Wilkinson </h3>
-<h2 id="tools">Tools</h2>
+<h2 id="it">IT Work</h2>
 <h3>Professional Interview</h3>
 <br>
 <span> The IT professional we interviewed is in the business of telecommunications. He does software, firmware and hardware testing, as well as project management in the telecommunications field. He interacts daily with the company management, software and hardware engineers, software testers, documentation workers and customer tech support. He mainly spent his time at work at a desk or in testing labs in an office building. The hardest part of his job was said to be the making judgement calls on whether or not to ship a certain project and making decisions about the readiness of certain projects for customer consumption. He said this was the ardest part because if he made the wrong decision, it could come back on him from his supervisors in either case, where a product was shipped too early or too late.</span>
