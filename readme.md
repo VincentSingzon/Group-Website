@@ -35,6 +35,8 @@
 <img src = "WillPhotos/Screenshot (18).png" alt = "hi"/>
 <img src = "WillPhotos/Screenshot (39).png" alt = "hi"/>
 <img src = "WillPhotos/Screenshot (40).png" alt = "hi"/>
+<p>These results are very influential for my participation and behaviour in a team. I now know that I have to work harder to emotionally connect with people that I am in a team with. This is from the 16 personalities test. Since I have a highly logical mind, from the 16 personality test again, that I be assigned to tasks that require logical thinking. If I need to learn things while in the team, then I also need to use visual techniques to do so. 
+</p>
 <br>
 <h3>Vincent Singzon</h3>
 <img src = "images/myers.PNG" alt="hi"/>
