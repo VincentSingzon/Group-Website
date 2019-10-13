@@ -11,7 +11,7 @@
 <a href="#Professional">Professional Interview</a>
 <a href="#IT">IT Technologies</a>
 <a href="#Project">Project Ideas</a>
-
+<a href="#reflection">Group Reflection</a>
 
    <body>
 
@@ -111,9 +111,8 @@ Vendors in cybersecurity would use endpoint, network and advanced threat protect
   <span>As people are being exposed more to technology like smartphones and computers there is a greater emphases on protecting users from cyberattacks such as computer viruses, date breaches and denial of service attacks. What is likely to change in the future is the increased need to protect computer systems as they can be a big deal, able to cuase things such as blackouts, stealing personal information, and breach of security like military equipment and disruption of computer systems and phone services. The people who will most likely effect would be anyone who uses technology in their daily lives. This field will create new jobs in the future as it is a growing field and buisness and government wanting to hire people specialized in this field. New titles appearing such as cybercrime officer. </span>
 <h3>what does it do</h3>
 <span>This will affect me as a lot of my life revolves around technology, it will affect everyone as well as we rely on technology in our daily lives. What will be different is that cyber criminals are able to target things such as medical technologies like pacemakers, hack into military installations stealing sensitive data and have terrorists disrupt power grids or phone lines and as the world becomes more digital we need people who are able to protect consumers and business from cyber threats. </span>
-<h1> Project Ideas </h1>
-  <p></p>
-<h1> Group Reflection </h1>
+  <h2 id="project">Project Ideas</h2>
+   <h2 id="reflection">Group Reflection</h2>
 <h1> Bibliography </h1>
 <p> Zoox. 2019. Zoox. [ONLINE] Available at: <a href ="https://zoox.com/"> https://zoox.com</a>. [Accessed 12 October 2019].</p>
 <p> YouTube. 2019. What are Geofences? - All about Geofencing in 5 min - YouTube. [ONLINE] Available at: https://www.youtube.com/watch?v=oklOTx_jnbA. [Accessed 12 October 2019]</p>
