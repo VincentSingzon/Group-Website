@@ -94,6 +94,7 @@ Business Management, Business process and Building relationships. The three skil
 <h3> Keetan Southwell</h3>
 <span> The skill of project management in my ideal job ranks fifth in the list of desired skill by employers. The general skills that are required in my ideal field rank among the top, with communication, problem solving and organisation being the top three skill respectively and teamwork and planning also being ranked highly on the list. The three highest ranked IT specific skill that are not in my required skillset are SQL, JavaScript and JAVA, which are the three highest ranking skills. All of the generic skills need to be had in any job to make a person successful, however the least useful ones in my required skillset for a project management job would be creativity, presentation skills and self-starter. Having looked at the burning glass data has not changed my ideal job, since it is not in the IT field to begin with and the burning glass data is geared specifically towards IT careers.</span>
 <h3> Kyle Molloy </h3>
+  <p>I think there is always going to be less jobs available then there is demand for people especially with machines replacing certain jobs humans would have ideally been employed to do many years ago, I am still not one hundred percent sure on what i would like to do revolving around technology so my ideal job hasn’t changed.</p>
 <h2 id="it">IT Work</h2>
 <h3>Professional Interview</h3>
 <br>
