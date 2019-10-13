@@ -101,6 +101,7 @@ Vendors in cybersecurity would use endpoint, network and advanced threat protect
 <h3>what does it do</h3>
 <span>This will affect me as a lot of my life revolves around technology, it will affect everyone as well as we rely on technology in our daily lives. What will be different is that cyber criminals are able to target things such as medical technologies like pacemakers, hack into military installations stealing sensitive data and have terrorists disrupt power grids or phone lines and as the world becomes more digital we need people who are able to protect consumers and business from cyber threats. </span>
 <h1> Project Ideas </h1>
+  <p></p>
 <h1> Group Reflection </h1>
 <h1> Bibliography </h1>
 <p> Zoox. 2019. Zoox. [ONLINE] Available at: <a href ="https://zoox.com/"> https://zoox.com</a>. [Accessed 12 October 2019].</p>
