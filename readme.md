@@ -44,6 +44,8 @@
 <img src = "WillPhotos/Screenshot (18).png" alt = "hi"/>
 <img src = "WillPhotos/Screenshot (39).png" alt = "hi"/>
 <img src = "WillPhotos/Screenshot (40).png" alt = "hi"/>
+<p>These results are very influential for my participation and behaviour in a team. I now know that I have to work harder to emotionally connect with people that I am in a team with. This is from the 16 personalities test. Since I have a highly logical mind, from the 16 personality test again, that I be assigned to tasks that require logical thinking. If I need to learn things while in the team, then I also need to use visual techniques to do so. 
+</p>
 <br>
 <h3>Vincent Singzon</h3>
 <img src = "images/myers.PNG" alt="hi"/>
@@ -109,10 +111,22 @@ Vendors in cybersecurity would use endpoint, network and advanced threat protect
 <br>
 <h3>What is the likely impact?</h3>
   <span>As people are being exposed more to technology like smartphones and computers there is a greater emphases on protecting users from cyberattacks such as computer viruses, date breaches and denial of service attacks. What is likely to change in the future is the increased need to protect computer systems as they can be a big deal, able to cuase things such as blackouts, stealing personal information, and breach of security like military equipment and disruption of computer systems and phone services. The people who will most likely effect would be anyone who uses technology in their daily lives. This field will create new jobs in the future as it is a growing field and buisness and government wanting to hire people specialized in this field. New titles appearing such as cybercrime officer. </span>
-<h3>what does it do</h3>
+<h3>What does it do</h3>
 <span>This will affect me as a lot of my life revolves around technology, it will affect everyone as well as we rely on technology in our daily lives. What will be different is that cyber criminals are able to target things such as medical technologies like pacemakers, hack into military installations stealing sensitive data and have terrorists disrupt power grids or phone lines and as the world becomes more digital we need people who are able to protect consumers and business from cyber threats. </span>
-  <h2 id="project">Project Ideas</h2>
-   <h2 id="reflection">Group Reflection</h2>
+=======
+<h3>Machine Learning</h3>
+<br>
+<h3>What does it do</h3>
+<span>Machine learning is the ability of machines, robots, and computer programs to use data to learn. It essentially uses data to improve the reliability, usefulness and accuracy of computer programs. Machine learning is often interchanged with artificial intelligence, however, artificial intelligence is where computers are given human characteristics, and machine learning is the method that the computer uses to do this. Machine learning uses large, diverse, complex data sets and analyses it, learning from it, identifying patterns and making decisions based on the data. This data could be the surroundings of the computer, and be analysing it as it comes in, for example autonomous vehicles. The data could also be from the past, such as a chess machine analysing how chess masters have played in the past. To conclude, machine learning is the analysis of data by a computer to improve a computer.
+<br><br>
+There are currently many different areas of machine learning, such that there isn’t really one ‘state of the art’ of this technology. Machine learning can be seen in almost all areas of society. This includes anywhere from google, to autonomous cars, to stock analysis. This technology also isn’t that new. The first Machine learning started in the early 1950’s, with computers being able to convince humans that they were human, and a program of checkers that learnt as it ran. The current state of the art for one part of machine learning is probably google’s search algorithms, and various other algorithms that have ‘suggested’ items. Another state of the art part of machine learning would be autonomous cars, Siri and similar chatterbots, and the code in humanoid robots such as the Honda ASIMO. To sum up, there are various state of the art machine learning technologies.
+<br><br>
+At the moment, machine learning can analyse data, come up with solutions to problems, help customise user experience, and assist in autonomous vehicles and systems. It can currently customise user experience, such as in youtube’s ‘suggested’ videos, or google’s autofill. It is also used in autonomous cars to get data from all cars and share it to other cars, thus enabling learning from one car to be passed to others. Machine learning in chess programs can also learn a particular players’ playing style and adapt its strategy to play against them. 
+<br><br>
+Over the next three years, machine learning will hopefully keep improving. However it is unlikely that it will reach the levels seen in sci fi movies and TV. It is likely going to be able to win very complex games such as chess go, however it is unlikely to be able to be able to maintain a house. Machine learning will probably greatly improve in chat bots, as more data will be coming in that will be able to help the programs. Autonomous cars are likely to be completely road safe, however whether they will be legal or not is a different question. The technological advancements that has made machine learning possible is the complex algorithms that have been developed to recognise patterns, make decisions, and to learn without human intervention. Another technology that has greatly helped is the development of systems that can produce large quantities of data, such as sensors, and the internet. This has enabled machine learning to use this data to improve itself.
+</span>
+ <h2 id="project">Project Ideas</h2>
+ <h2 id="reflection">Group Reflection</h2>
 <h1> Bibliography </h1>
 <p> Zoox. 2019. Zoox. [ONLINE] Available at: <a href ="https://zoox.com/"> https://zoox.com</a>. [Accessed 12 October 2019].</p>
 <p> YouTube. 2019. What are Geofences? - All about Geofencing in 5 min - YouTube. [ONLINE] Available at: https://www.youtube.com/watch?v=oklOTx_jnbA. [Accessed 12 October 2019]</p>
@@ -124,6 +138,8 @@ Vendors in cybersecurity would use endpoint, network and advanced threat protect
 <p>History of Machine Learning. 2019. History of Machine Learning. [ONLINE] Available at: https://www.doc.ic.ac.uk/~jce317/history-machine-learning.html#top. [Accessed 12 October 2019].
 </p>
 <p>What Are Cyber Threats: How They Affect You and What to Do About Them https://preyproject.com/blog/en/what-are-cyber-threats-how-they-affect-you-what-to-do-about-them/ [Accessed 12 October 2019].
+</p>
+<p>EliteDataScience. 2019. 15 Ways Machine Learning Will Impact Your Everyday Life. [ONLINE] Available at: https://elitedatascience.com/machine-learning-impact. [Accessed 13 October 2019].
 </p>
 
   </body>
