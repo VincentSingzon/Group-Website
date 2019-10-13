@@ -64,6 +64,10 @@
 <span >My ideal job was as a civil engineering project manager. The common elements I found in this job are the impacts that IT has on it, in that the job is drastically assisted by IT. It is different in the sense that it is not specifically in the IT field of work. My career plan is very different to others in the group. </span>
 <h3> Will Grime </h3>
 <span> My ideal job was to be a junior data scientist. The common elements I found in the jobe was the use of IT to complete the job, as in the use of coding languages such as R and Python. The difference of this job was that it was largely about the use of data and maths to help businesses in real time. My career plan is similar to others in that I want to complete University, and then get different jobs to obtain the skillset I would need.</span>
+<h3>Kyle Molloy</h3>
+<p>My ideal job is ICT system administration maybe seeing where it takes me or see what insights it can give me and help me discover what I would enjoy doing whether it be completely different to this. A chilled work environment with a bit of banter and a supportive team behind you to turn to for help if need be is ideal but also something that challenges you that little bit each day and makes you use your brain, I tend to get bored easily so something I’m interested in that still gives a bit of a challenge I think would suit me well.
+I believe for this position you need 3 years’ experience in ICT system administration work and Tertiary qualifications in ICT or computer science or relevant industry certifications, Experience in enterprise network infrastructure, visualization technologies, active directory and windows server, backup and recovery, system monitoring and alerting. Experience in Microsoft Azure, Office 365, Zoom, Trello, Slack etc.
+</p>
 <h2 id="tools">Tools</h2>
 <p> Link to repository: <a href = "https://github.com/VincentSingzon/Group-Website" >https://github.com/VincentSingzon/Group-Website</a></p>
 <p> Link to GitHub website: <a href = "https://vincentsingzon.github.io/Group-Website/" >https://vincentsingzon.github.io/Group-Website/</a></p>
