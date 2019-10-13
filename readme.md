@@ -18,10 +18,6 @@
 
 <hr>
 
-<a href="https://bburke2.github.io/MyProfile/">Link to Bradley Burke Profile</a>
-
-<hr>
-
 <a href="https://keetansouthwell.github.io/ITP-Assignment-1/">Link to Keetan Southwell Profile</a>
 <span>My name is Keetan Southwell, my student ID is 795652, my email address is keetan.southwell@gmail.com. I am a year 10 student and live on the North Shore of Sydney. I was born in Canada and moved to Sydney when I was 7. I have one Golden Retriever named Ryder. My hobbies include basketball, video games and puzzles.</span>
 <hr>
