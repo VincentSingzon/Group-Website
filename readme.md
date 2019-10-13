@@ -56,9 +56,6 @@
 <h3>Kyle Molloy</h3>
 [url=https://ibb.co/FVNy5DW][img]https://i.ibb.co/FVNy5DW/index.png[/img][/url]
 
-<br>
-<h3>Aaron Wilkinson </h3>
-
 <h2 id="ideal">Ideal Jobs</h2>
 <h3> Vincent Singzon </h3>
 <span> My Ideal job was Cyber Security Engineer The common element I found in this was the relations to IT field. The thing which differentiates my position from others is protecting damage to hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.  My career plan is similar to others in how we apply things from IT to our work
@@ -87,7 +84,6 @@ Business Management, Business process and Building relationships. The three skil
 <h3> Keetan Southwell</h3>
 <span> The skill of project management in my ideal job ranks fifth in the list of desired skill by employers. The general skills that are required in my ideal field rank among the top, with communication, problem solving and organisation being the top three skill respectively and teamwork and planning also being ranked highly on the list. The three highest ranked IT specific skill that are not in my required skillset are SQL, JavaScript and JAVA, which are the three highest ranking skills. All of the generic skills need to be had in any job to make a person successful, however the least useful ones in my required skillset for a project management job would be creativity, presentation skills and self-starter. Having looked at the burning glass data has not changed my ideal job, since it is not in the IT field to begin with and the burning glass data is geared specifically towards IT careers.</span>
 <h3> Kyle Molloy </h3>
-<h3> Aaron Wilkinson </h3>
 <h2 id="it">IT Work</h2>
 <h3>Professional Interview</h3>
 <br>
