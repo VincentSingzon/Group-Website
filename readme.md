@@ -4,9 +4,18 @@
 <head>
   <h1> The Droids You're Looking For Group Assignment </h1>
 </head>
+<a href="#scroll">Links to each individual website</a>
+<a href="#team">Team Profile</a>
+<a href="#ideal">Ideal Jobs</a>
+<a href="#industry">Industry Data</a>
+<a href="#Professional">Professional Interview</a>
+<a href="#IT">IT Technologies</a>
+<a href="#Project">Project Ideas</a>
+
+
    <body>
 
-  <h2> Links to each individual website </h2>
+ <h2 id="scroll">Links to each individual website</h2>
   
 <a href="https://vincentsingzon.github.io/myprofile/">Link to Vincent Singzon Profile</a>
 <span>My name is Vincent Singzon my student ID is S3818849, I’m from Sydney Australia and my background is Filipino, my hobbies include things such as gaming, going out, art and working out. II joined this course as I have an interest in IT due to my hobby of playing games and my Dad who also works in IT related field. The IT field I'm particularly in is Cybersecurity which I hopefully get employed in, my experience includes a completion of a Cert IV Networking course in Tafe and some programming, along with this course.</span>
@@ -24,7 +33,7 @@
 
 <a href="https://github.com/WillDaWise/Assignment1/wiki">Link to Will Grime Profile</a>
 <span>I’m Will Grime and my student number is s3795662. I am a year 10 student at St Ives High School in the Sydney North area. I enjoy video games and basketball. I enjoy coding, and my IT experience is just my IT electives at school, along with Intro to programming and programming 1 from RMIT which I have just completed. </span>
-<h2> Team Profile </h2>
+<h2 id="team">Team Profile</h2>
 <h3> Keetan Southwell </h3>
 <img src = "KeetanImages/MyersBriggs.png" alt="hi"/>
 <img src = "KeetanImages/Big5.png" alt="hi"/>
@@ -47,7 +56,7 @@
 <br>
 <h3>Aaron Wilkinson </h3>
 
-<h2> Ideal Jobs </h2>
+<h2 id="ideal">Ideal Jobs</h2>
 <h3> Vincent Singzon </h3>
 <span> My Ideal job was Cyber Security Engineer The common element I found in this was the relations to IT field. The thing which differentiates my position from others is protecting damage to hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.  My career plan is similar to others in how we apply things from IT to our work
 </span>
@@ -55,11 +64,11 @@
 <span >My ideal job was as a civil engineering project manager. The common elements I found in this job are the impacts that IT has on it, in that the job is drastically assisted by IT. It is different in the sense that it is not specifically in the IT field of work. My career plan is very different to others in the group. </span>
 <h3> Will Grime </h3>
 <span> My ideal job was to be a junior data scientist. The common elements I found in the jobe was the use of IT to complete the job, as in the use of coding languages such as R and Python. The difference of this job was that it was largely about the use of data and maths to help businesses in real time. My career plan is similar to others in that I want to complete University, and then get different jobs to obtain the skillset I would need.</span>
-<h2> Tools </h2>
+<h2 id="tools">Tools</h2>
 <p> Link to repository: <a href = "https://github.com/VincentSingzon/Group-Website" >https://github.com/VincentSingzon/Group-Website</a></p>
 <p> Link to GitHub website: <a href = "https://vincentsingzon.github.io/Group-Website/" >https://vincentsingzon.github.io/Group-Website/</a></p>
 <p> The GitHub trail doesn't entirely reflect the work and planning that has gone in to this assignment. Our group used other tools such as the discussion forums via Canvas, a shared google doc and discord to communicate our ideas for this project. GitHub was worked on last out of most of these tools, with planning being done though other means. Thus, GitHub doesn't accuratley reflect our group's work patterns.</p>
-<h2> Industry Data </h2>
+<h2 id="industry">Industry Data</h2>
 
 <h3> Demand Ranking </h3>
 <p> Systems Administrator - Kyle Molloy</p>
@@ -76,11 +85,11 @@ Business Management, Business process and Building relationships. The three skil
 <span> The skill of project management in my ideal job ranks fifth in the list of desired skill by employers. The general skills that are required in my ideal field rank among the top, with communication, problem solving and organisation being the top three skill respectively and teamwork and planning also being ranked highly on the list. The three highest ranked IT specific skill that are not in my required skillset are SQL, JavaScript and JAVA, which are the three highest ranking skills. All of the generic skills need to be had in any job to make a person successful, however the least useful ones in my required skillset for a project management job would be creativity, presentation skills and self-starter. Having looked at the burning glass data has not changed my ideal job, since it is not in the IT field to begin with and the burning glass data is geared specifically towards IT careers.</span>
 <h3> Kyle Molloy </h3>
 <h3> Aaron Wilkinson </h3>
-<h2> IT Work </h2>
-<h3> Professional Interview </h3>
+<h2 id="tools">Tools</h2>
+<h3>Professional Interview</h3>
 <br>
 <span> The IT professional we interviewed is in the business of telecommunications. He does software, firmware and hardware testing, as well as project management in the telecommunications field. He interacts daily with the company management, software and hardware engineers, software testers, documentation workers and customer tech support. He mainly spent his time at work at a desk or in testing labs in an office building. The hardest part of his job was said to be the making judgement calls on whether or not to ship a certain project and making decisions about the readiness of certain projects for customer consumption. He said this was the ardest part because if he made the wrong decision, it could come back on him from his supervisors in either case, where a product was shipped too early or too late.</span>
-<h2> IT Technologies </h2>
+<h2 id="IT">IT Technologies</h2>
 <h3> Autonomous Cars </h3>
 <br>
 <h3> What Does it Do? </h3>
