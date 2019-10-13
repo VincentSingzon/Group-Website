@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <h1> Group Assignment website </h1>
+  <h1> The Droids You're Looking For Group Assignment </h1>
 </head>
    <body>
 
