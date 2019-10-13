@@ -29,6 +29,7 @@
 <img src = "KeetanImages/MyersBriggs.png" alt="hi"/>
 <img src = "KeetanImages/Big5.png" alt="hi"/>
 <img src = "KeetanImages/LearningStyle.png" alt="hi"/>
+<p>When I’m working in a team, my behaviour will be influenced in a contradicting way. This is because I have an introverted personality, but I also have a need to be in control. This means that while working with people I don’t know, I will have a need to convey my ideas, but will have no way to actually convey them because I am too introverted and I can’t do it efficiently or confidently. I should also consider that I become distracted easily, but am quick to get back to work. If I am not able to fidget or do something while I work, then I may not be able to concentrate on the work. Because of this, I should consider my likelihood of either become agitated or distracted in a group situation. I should strongly consider my ability to not see other people’s solutions as well, since I can get caught up in planning my own solution to a problem and then push this idea, instead of listening to other people’s solutions.</p>
 <br>
 <h3> Will Grime </h3>
 <img src = "WillPhotos/Screenshot (18).png" alt = "hi"/>
