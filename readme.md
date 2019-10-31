@@ -64,7 +64,7 @@ For my third and last test I did The Big Five personality test which is based on
 
 <h2 id="ideal">Ideal Jobs</h2>
 <h3> Vincent Singzon </h3>
-<span> My Ideal job was Cyber Security Engineer The common element I found in this was the relations to IT field. The thing which differentiates my position from others is protecting damage to hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.  My career plan is similar to others in how we apply things from IT to our work
+<span> My Ideal job Is Web Developer. A job which is a programmer that specialize in the development of World Wide Web Applications
 </span>
 <h3> Keetan Southwell </h3>
 <span >My ideal job was as a civil engineering project manager. The common elements I found in this job are the impacts that IT has on it, in that the job is drastically assisted by IT. It is different in the sense that it is not specifically in the IT field of work. My career plan is very different to others in the group. </span>
