@@ -165,19 +165,60 @@ Some prototyping was done in Unity to test the physics engine that is already av
   <img src = "KeetanImages/Unity3.png" alt="hi"/>
 </p>
 <h3>Roles</h3>
-<p></p>
+<p>In our group we decided not to have specific roles. This was mainly because we only had a few people in our group, but it is also because none of us had much experience in anything. Consequently, we will all be doing similar things to each other, we will all be writing up the project document and the script for the video, however Keetan and Will will record the video because they can easily meet up. All of us will also be using Unity to complete our project. Our process will be we are all working on different parts of the project, but all of them are similar, and then in the last week or two of the proposed time we would consolidate the sections of the project. We don’t have specific roles because there is no specific tasks that need a particular role. 
+</p>
 <h3>Scope and Limits</h3>
-<p></p>
+<p>The main aim of our project is to create some software that can test the structural integrity of a building. This means that the most important part would be to get buildings able to be made with different materials and be able to test the structural integrity of the building. This means the scope would probably be to just get this working, although ideally it would be to get a sketchup-esque program working. The scope is to be able to create a building that uses material properties to determine if it is structurally sound. There will be a limit on how nice we can get it to look and how well it determines structural integrity There are other limits such as our ability to code new features. The general limits is the basic prototyping that we did in Unity, which is all the coding that we know how to do.  </p>
 <h3>Tools and Technologies</h3>
-<p></p>
+<p>Unity Version 2019.2.12f1 - personal edition - free if the profit is less than $100,000
+    Keetan and Will have had some experience creating a game with this software.
+Premiere Pro version 14.0 - Keetan has used this before to create videos 
+Github - all have experience from assignment 2
+Google docs - all have experience from assignment 2
+Our Github trail says that (whoever uploads to github) put everything on the website at the same time. However, this is not reflective of the groups efforts as most of the work was done on a google doc. The edit trail on the google doc however, is a better estimate of our work, although still not very accurate. It says that Keetan only edited a few times, Will edited a lot, and all three of us were editing on the Sunday it was due. However, Keetan’s edits were larger, and Wills edits were very small. In fact, Keetan did more work that Will and Vincent. 
+</p>
 <h3>Testing</h3>
-<p></p>
+<p>We will test our project by testing the various physics components in Unity. We will create situations while we are doing the project where we can test the various elements of our project in Unity. We will know that we have succeeded when it works and everything does what its supposed to do. There will also be a fair bit of testing as we go, small checks to make sure each little section of code works. Our project will not involve user testing, so we don’t have to worry about finding test users. </p>
 <h3>Timeframe</h3>
 <img src = "KeetanImages/Timeframe.png" alt="hi"/>
 <h3>Risks</h3>
-<p></p>
+<p>There are a few risks that we might encounter. These include difficulty in creating the physics, the computer not being able to handle what we are trying to do, and it actually being impossible to do with Unity. It might be quite difficult for us to create the required physics, as we don’t have much experience in this area. It also might be too much for the computer to handle, after all, we will be asking it to simulate a large number of physical interactions at the same time. It may also not be possible to simulate the required stuff in unity. We may be using the wrong software to create what we are trying to. The risks we might encounter are difficulty to create physics, it being too much for the computer to handle, and having the wrong software for the job
+</p>
 <h3>Group Processes and Communications</h3>
-<p></p>
+<p>We have a discord server on which all of our communication will happen. Our meetings will take place once a week on the weekend on our discord server. Group members will be expected to go on the discord at least twice a week outside of this meeting. If a group member does not respond we will just do their part for them, as otherwise we will lose marks. However, if it is evident that a group member isn’t participating in the course and assignments, we will move to a new group to avoid losing marks for sparkplus like we did last time.
+</p>
+<h3>Skill and Jobs</h3>
+<p>Lead Developer 
+Someone with a technical expertise in using  video editing software such as adobe
+Has experience using engine such as Unity 
+has leadership qualities and management techniques and innovative thinking
+able to work in a team environment
+good communication skills
+
+Civil Engineer
+management skills
+analytical thinking
+good communication skills
+able to think critically 
+knowledge of building stuff
+Has coding skills in Python, c#, Java
+
+Project Manager
+
+has strong leadership qualities and management techniques 
+good communication skills
+is able to negotiate 
+has an understanding of the project 
+is able to take risk 
+
+User Design Consultant
+
+Has coding skills in Python, C#, Java
+Is able to communicate visually 
+Able to design interactively 
+Has user empathy 
+Good communication skills
+</p>
  <h2 id="reflection">Group Reflection</h2>
   <p>Overall the project went very well. The group did well performance wise, especially towards the later stages of the project. Several things went well in this task, including our abilities to individually contribute to the group, our communication and the work being clearly assigned. Mostly, this was because of the discord server we made, which allowed for this communication. Many things didn’t go according to plan, despite our best efforts. The times that we could work together were not well set out, meaning that we were often disorganised and flustered. Because of this, not all of us could regularly contribute to the task at the best times. Overall, the participating members had good communication, although one member chose not to participate, which heightened the work load for the rest of us, as well as only having 5 members instead of 6 to begin the task. Many things surprised us during the task. One member chose to leave the group at the beginning of the task, which was surprising to everyone, but there were other surprises, such as how quickly we were able to progress through the project once we got discord. It certainly helped our communication a lot, and before discord it was slow going on the project, but once we had it, we moved much faster than before. One more surprising aspect is the effectiveness of GitHub, since we are all able to contribute to a document simultaneously, without the mass lag that would be experienced when editing through google docs. We have learnt through this project, some positive things, and some negative. We have learned the sheer effectiveness of raw teamwork on a task like this, and how much easier it is when we all work together at the same time on a project. Despite this, we have also learned about the difficulties that come from working online as a team, with mean members of the group not being online to work on projects at the same time, causing roadblocks. We have also learned that we must communicate in order to produce quality work, as when working alone, you have no idea what your team is doing by themselves. Overall our team was able to work effectively and quickly in the small amount of time we had left since we got discord, however before that it was very slow moving.</p>
 <h1> Bibliography </h1>
