@@ -160,6 +160,9 @@ The program would have a run button inserted into it, where when pressed, would 
 All of the factors working at the same time would determine if the building, with its given materials, would undergo any failures such as cracks, damage, or loose pieces. This would all happen in real time as well. As the simulation progressed, the user could adjust the speed, to see if the building would hold itself over a number of years under pre-programmed circumstances. All of this would help to determine the long term circumstances that the building underwent.
 The most useful feature of the entire project would be the ability for the project would be its uses as a teaching tool. It would give the user some basic lessons in building construction, such as how to correctly implement a foundation for a building, what type of foundation would be needed for different ground types, what materials that are available are best for which function, the height to base ratio that is need for different structures, the load bearing strength of different structures and many more teaching functions that could be used to properly instruct someone how to build a building. It would also have the functionality to display the current stresses undergoing one material segment when hovered over with the cursor. Each segment would be clearly highlighted in a coloured outline for ease of use and the stresses would appear in a corner of the screen. This is by far the most useful feature of the entire program because it can be used as a tool to teach new engineering students and architects about real building techniques on a large scale, without using real materials, time, or placing anyone in danger.
 Some prototyping was done in Unity to test the physics engine that is already available.  Screenshots are provided below. The prototype tested the gravity physics and wind physics in the simulation, as well as modelling materials of different weights and how they interacted with each other.
+  <img src = "KeetanImages/Unity1.png" alt="hi"/>
+  <img src = "KeetanImages/Unity2.png" alt="hi"/>
+  <img src = "KeetanImages/Unity3.png" alt="hi"/>
 </p>
 <h3>Roles</h3>
 <p></p>
@@ -170,7 +173,7 @@ Some prototyping was done in Unity to test the physics engine that is already av
 <h3>Testing</h3>
 <p></p>
 <h3>Timeframe</h3>
-<p></p>
+<img src = "KeetanImages/Timeframe.png" alt="hi"/>
 <h3>Risks</h3>
 <p></p>
 <h3>Group Processes and Communications</h3>
