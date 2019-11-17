@@ -189,6 +189,7 @@ Our Github trail says that (whoever uploads to github) put everything on the web
 <p>We will test our project by testing the various physics components in Unity. We will create situations while we are doing the project where we can test the various elements of our project in Unity. We will know that we have succeeded when it works and everything does what its supposed to do. There will also be a fair bit of testing as we go, small checks to make sure each little section of code works. Our project will not involve user testing, so we don’t have to worry about finding test users. </p>
 <h3>Timeframe</h3>
 <img src = "KeetanImages/Timeframe.png" alt="hi"/>
+<img src = "KeetanImages/Screenshot (50).png" alt="hy"/>
 <h3>Risks</h3>
 <p>There are a few risks that we might encounter. These include difficulty in creating the physics, the computer not being able to handle what we are trying to do, and it actually being impossible to do with Unity. It might be quite difficult for us to create the required physics, as we don’t have much experience in this area. It also might be too much for the computer to handle, after all, we will be asking it to simulate a large number of physical interactions at the same time. It may also not be possible to simulate the required stuff in unity. We may be using the wrong software to create what we are trying to. The risks we might encounter are difficulty to create physics, it being too much for the computer to handle, and having the wrong software for the job
 </p>
